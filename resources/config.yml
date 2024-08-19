@@ -1,0 +1,9 @@
+# You must not set this server's ip/port
+# Example :
+# linked-servers:
+#   - play.myservertolink.fr:19132
+linked-servers: []
+
+# Time between refreshes of server logins (does not include players on this server)
+# In seconds
+update-time: 30

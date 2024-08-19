@@ -1,0 +1,7 @@
+name: LinkPlayersCounter
+version: 1.0.O
+api:
+  - 4.0.0
+  - 5.0.0
+main: RemBog\LinkPlayersCounter\LinkPlayersCounter
+author: RemBog
